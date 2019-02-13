@@ -1,6 +1,6 @@
 # hello-world
 
-hi am oaicybent,
+hi am oaicybent!
 
-i am a general on my device
-stay on the watch
+i am a general on my device.
+stay on the watch.
